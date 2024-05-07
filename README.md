@@ -1,4 +1,6 @@
-README
+--README FILE--
+
+
 This repository contains an application for managing users, products, and favorites. The application is built using Node.js, Express.js, and PostgreSQL.
 
 Setup:
